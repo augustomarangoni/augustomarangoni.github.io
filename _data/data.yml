@@ -62,33 +62,33 @@ experiences:
       time: 2015 - Present
       company: Inova Teclonogias, Sao Paulo
       details: |
-       Deployment management of mission-critical environments.
-       Systems management for automation and monitoring Clusters and servers.
-       Management of + 400 thousand email accounts and dozens of onPremise and onCloud servers.
-       Hot migration of critical data, usually on a large scale.
-       Official zimbra training for system administrators.
-       Sizing, deploying and managing clusters and Linux servers.
-       Management of large amounts of data (+ 100TB) distributed in the cloud and in
-        local datacenters.
-       Development of tools and scripts for data migration and tasks automation.
+         Deployment management of mission-critical environments.
+         Systems management for automation and monitoring Clusters and servers.
+         Management of + 400 thousand email accounts and dozens of onPremise and onCloud servers.
+         Hot migration of critical data, usually on a large scale.
+         Official zimbra training for system administrators.
+         Sizing, deploying and managing clusters and Linux servers.
+         Management of large amounts of data (+ 100TB) distributed in the cloud and in
+          local datacenters.
+         Development of tools and scripts for data migration and tasks automation.
 
     - role: IT Systems Analyst
       time: 2014 - 2015
       company: Google, London
       details: |
-       Customer service and technical support.
-       Analysis and Debug in Linux environments (Zimbra and Hosting).
-       Scripting for routine automation.
-       Internal user support and infrastructure
+         Customer service and technical support.
+         Analysis and Debug in Linux environments (Zimbra and Hosting).
+         Scripting for routine automation.
+         Internal user support and infrastructure
 
     - role: Trainee
       time: 2012 - 2013
       company: Amazon, London
       details: |
-       Preparation of videoconferencing environment (hardware, software and local).
-       Hardware and software testing and maintenance.
-       Communication and tests among the more than 90 localities that participated in the conferences transmitted by our team.
-       Record and catalog transmissions according to company protocols.
+         Preparation of videoconferencing environment (hardware, software and local).
+         Hardware and software testing and maintenance.
+         Communication and tests among the more than 90 localities that participated in the conferences transmitted by our team.
+         Record and catalog transmissions according to company protocols.
 
 projects:
     title: Projects
