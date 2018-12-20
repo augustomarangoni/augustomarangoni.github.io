@@ -1,0 +1,170 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Leonardo Marangoni
+    tagline: IT System Administrator
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: leonardomarangoni@hotmail.com
+    phone: 011 9 6174 3851
+    website: #leomarangoni.me #do not add http://
+    linkedin: leonardo-marangoni-636533140
+    github: leomarangoni
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: English
+        level: High intermediate
+
+#    interests:
+#      - item: Abseiling
+#        link:
+
+#      - item: Play Guitar 
+#        link:
+
+#      - item: Cooking
+#        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Systems Administrator and Zimbra expert, dealing daily with mission-critical
+      environments and with a great mass of data.
+      Besides the years of experience in systems administration
+      I also have experience in Fullstack Development, cloud, 
+      virtualization and containers.
+
+
+education:
+    - degree: BSc in Information Systems
+      university: Mackenzie Presbyterian University
+      time: 2013 - 2017
+      details: 
+
+experiences:
+    - role: IT System Administrator
+      time: 2015 - Present
+      company: Inova Teclonogias, Sao Paulo
+      details: |
+       Deployment management of mission-critical environments.
+       Systems management for automation and monitoring Clusters and servers.
+       Management of + 400 thousand email accounts and dozens of onPremise and onCloud servers.
+       Hot migration of critical data, usually on a large scale.
+       Official zimbra training for system administrators.
+       Sizing, deploying and managing clusters and Linux servers.
+       Management of large amounts of data (+ 100TB) distributed in the cloud and in
+        local datacenters.
+       Development of tools and scripts for data migration and tasks automation.
+
+    - role: IT Systems Analyst
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+       Customer service and technical support.
+       Analysis and Debug in Linux environments (Zimbra and Hosting).
+       Scripting for routine automation.
+       Internal user support and infrastructure
+
+    - role: Trainee
+      time: 2012 - 2013
+      company: Amazon, London
+      details: |
+       Preparation of videoconferencing environment (hardware, software and local).
+       Hardware and software testing and maintenance.
+       Communication and tests among the more than 90 localities that participated in the conferences transmitted by our team.
+       Record and catalog transmissions according to company protocols.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Hermes
+        link: "#hook"
+        tagline: "A migration API with focus in facilitate the data transfer between email servers (In future: Files, Databases, websites, etc )."
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Zimbra
+        level: 98%
+
+      - name: Linux
+        level: 90%
+
+      - name: Apache & Nginx
+        level: 89%
+
+      - name: Postfix
+        level: 92%
+
+      - name: LDAP
+        level: 65%
+
+      - name: Python
+        level: 70%
+
+      - name: Databases (MariaDB & MongoDB)
+        level: 65%
+
+      - name: Django
+        level: 60%
+
+      - name: Flask
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 55%
+
+      - name: React & Javascript
+        level: 55%
+
+      - name: PHP
+        level: 10%
+
+      - name: Perl
+        level: 5%
+
+      - name: Go
+        level: 1%
+
+      - name: Java
+        level: 1%
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
