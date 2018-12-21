@@ -67,5 +67,10 @@
     </li>
     {% endif %}
 
+    {% if sidebar.docker %}
+    <li class="dockerhub"><i class="fa fa-docker"></i>
+      <a href="https://hub.docker.com/u/{{ sidebar.dockerhub }}" target="_blank">{{ sidebar.docker }}</a>
+    </li>
+    {% endif %}
   </ul>
 </div><!--//contact-container-->
