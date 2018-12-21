@@ -21,7 +21,7 @@ sidebar:
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: LeoMarangoni
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -83,7 +83,7 @@ experiences:
 
     - role: Trainee
       time: 2012 - 2013
-      company: Fundação Vanzoline, São Paulo
+      company: Fundação Vanzolini, São Paulo
       details: |
         - Preparation of videoconferencing environment (hardware, software and local).
         - Hardware and software testing and maintenance.
@@ -93,9 +93,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      More will coming...
 
     assignments:
       - title: Hermes
