@@ -22,7 +22,7 @@ sidebar:
     dockerhub: marangoni
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: LeoMarangoni
+    #codewars: LeoMarangoni
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: High intermediate
+        level: Advanced
 
 #    interests:
 #      - item: Abseiling
@@ -45,11 +45,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Systems Administrator and Zimbra expert, dealing daily with mission-critical
-      environments and with a great mass of data.
-      Besides the years of experience in systems administration
-      I also have experience in Fullstack Development, cloud, 
-      virtualization and containers.
+      Tech leade with DevOps and Systems administration experience.
+      Zimbra Specialist, daily dealing with mission critical environments and with a large mass of data.
+      In addition to the years of experience in SysOps I also have experience in with FullStack development,
+      private and public clouds, virtualization and containers.
 
 
 education:
@@ -59,8 +58,30 @@ education:
       details: 
 
 experiences:
+    - role: IT Tech Lead
+      time: 2019 - Present
+      company: Inova Teclonogias, Sao Paulo
+      details: |
+        - To act as a technical reference for the team, providing a creative and innovative environment for all, 
+        in addition to stimulating and assisting the development of colleagues and the team as a whole.
+        - Implementation of mission critical environments and projects.
+        - Provide courses and training to clients when necessary
+        - Act as operational support for on-call analysts and when necessary, on-call
+        - Development of monitoring plug-ins, automation scripts, etc.
+        - Assist in the continuous management of Inova's infrastructure and managed environments.
+        - Continuously seek improvements to the environment and processes.
+        - Assist in innovation and resource savings.
+        
+    - role: DevOps Specialist
+      time: 2019 - 2019
+      company: Mandic Cloud Solutions, Sao Paulo
+      details: |
+        - Infrastructure automation using Ansible and Terraform
+        - Customer support, architecting AWS infrastructure, automation, CI/CD, cloud solutions troubleshooting.  
+        - Deployment of Docker containers and cloud services focused on optimizing and reducing infrastructure costs.
+        
     - role: IT System Administrator
-      time: 2015 - Present
+      time: 2015 - 2019
       company: Inova Teclonogias, Sao Paulo
       details: |
         - Deployment management of mission-critical environments.
