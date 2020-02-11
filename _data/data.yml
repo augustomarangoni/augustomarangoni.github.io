@@ -153,7 +153,8 @@ skills:
 
       - name: LDAP
         level: 65%
-
+    
+    toolset:
       - name: Python
         level: 70%
 
@@ -183,8 +184,17 @@ skills:
 
       - name: Java
         level: 1%
-
-
+    
+    toolset:
+      - name: AWS
+        level: 90%
+      
+      - name: Azure
+        level: 70%
+      
+      - name: GCP
+        level: 50%
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
