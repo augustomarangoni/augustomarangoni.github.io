@@ -19,7 +19,7 @@ sidebar:
     github: leomarangoni
     gitlab:
     bitbucket:
-    dockerhub: marangoni
+    #dockerhub: marangoni
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars: LeoMarangoni
@@ -114,7 +114,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
       More will coming...
 
     assignments:
