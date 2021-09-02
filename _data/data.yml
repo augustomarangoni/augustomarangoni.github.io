@@ -60,7 +60,7 @@ education:
 experiences:
     - role: IT Tech Lead
       time: 2019 - Present
-      company: Inova Teclonogias, Sao Paulo
+      company: Inova Tecnologias, Sao Paulo
       details: |
         - To act as a technical reference for the team, providing a creative and innovative environment for all, 
         in addition to stimulating and assisting the development of colleagues and the team as a whole.
@@ -82,7 +82,7 @@ experiences:
         
     - role: IT System Administrator
       time: 2015 - 2019
-      company: Inova Teclonogias, Sao Paulo
+      company: Inova Tecnologias, Sao Paulo
       details: |
         - Deployment management of mission-critical environments.
         - Systems management for automation and monitoring Clusters and servers.
@@ -96,7 +96,7 @@ experiences:
 
     - role: IT Systems Analyst
       time: 2014 - 2015
-      company: Inova Teclonogias, São Paulo
+      company: Inova Tecnologias, São Paulo
       details: |
         - Customer service and technical support.
         - Analysis and Debug in Linux environments (Zimbra and Hosting).
@@ -152,16 +152,16 @@ skills:
         level: 92%
 
       - name: LDAP
-        level: 65%
+        level: 95%
 
       - name: AWS
         level: 90%
       
       - name: Azure
-        level: 70%
+        level: 30%
       
       - name: GCP
-        level: 50%
+        level: 40%
 
       - name: MongoDB
         level: 80%
