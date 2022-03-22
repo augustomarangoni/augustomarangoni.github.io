@@ -67,6 +67,27 @@ experiences:
         Intermédio de exportação de commodities entre Brasil e China;
         Aquisição de novos fornecedores, acompanhamento de negociação e criação de contrato LOI (Intenção de compra)
 
+    - role: Auxiliar de Processos Operacionais
+      time: 02/2020 - 12/2020
+      company: TECHMAIL – São Paulo - Brasil
+      details: |
+      Análise e reanalise de propostas contratuais de alto valor de seguros do cliente Santander;
+      Prevenção anti fraude e possíveis erros de dados entre segurado e seguradora, relacionados aos produtos vida, saúde e
+      residencial. Elaboração e manipulação de indicadores para reuniões estratégicas.
+      
+    - role: Agente de Atendimento
+      time: 2017 - 2018
+      company: CTIS TECNOLOGIA S.A - São Paulo - Brasil
+      details: |
+      Atendimento a clientes PF e PJ; Foco na jornada do cliente; Auxílio ao cliente com direcionamento a resgates financeiros.
+      
+      role: Estagiário Administrativo
+      time: 03/2017 – 06/2017
+      company: TAPFER SEGUROS - São Paulo - Brasil
+      details: |
+      Administração de leads; Rotina de interação com gerentes das lojas filiadas; Elaboração de planilhas de controle;
+      Gerenciamento de leads e distribuição para a equipe de vendedores.
+        
 #projects:
 #    title: Projects
 #    intro: |
@@ -101,10 +122,10 @@ skills:
         level: 90%
 
       - name: Excel
-        level: 70%
+        level: 80%
 
       - name: Word
-        level: 80%
+        level: 70%
 
 
 
