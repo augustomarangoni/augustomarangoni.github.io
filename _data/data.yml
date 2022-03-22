@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Leonardo Marangoni
-    tagline: IT Tech Lead
+    name: Augusto Marangoni
+    tagline: Psicólogo
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: leonardomarangoni@hotmail.com
-    phone: 011 9 6174 3851
+    email: augustomarangoni@outlook.com
+    phone: 011 9 3257 1997
     website: #leomarangoni.me #do not add http://
-    linkedin: leomarangoni
-    github: leomarangoni
+    linkedin: augusto-marangoni-b59a46211
+    github: augustomarangoni
     gitlab:
     bitbucket:
     #dockerhub: marangoni
@@ -30,97 +30,52 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Advanced
+        level: Basic
 
-#    interests:
-#      - item: Abseiling
+    interests:
+      - item: Viagem
 #        link:
 
-#      - item: Play Guitar 
+      - item: Familia 
 #        link:
 
-#      - item: Cooking
+      - item: Leitura
+#        link:
+
+      - item: Culinária
 #        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Tech leade with DevOps and Systems administration experience.
-      Zimbra Specialist, daily dealing with mission critical environments and with a large mass of data.
-      In addition to the years of experience in SysOps I also have experience in with FullStack development,
-      private and public clouds, virtualization and containers.
+        Possuo perfil comunicativo,determinado e proativo. 
+        Com muita paixão por desafios e ownership, também trago uma bagagem de relacionamento e de centralidade no cliente, 
+        além de um perfil analitico e critico alinhadas ao planejamento estratégico/comercial.
 
 
 education:
-    - degree: BSc in Information Systems
-      university: Mackenzie Presbyterian University
-      time: 2013 - 2017
+    - degree: BSc in Psicology
+      university: Sao Paulo Adventist University
+      time: 2019 - 2024
       details: 
 
 experiences:
-    - role: IT Tech Lead
-      time: 2019 - Present
-      company: Inova Tecnologias, Sao Paulo
+    - role: Consultor Trade
+      time: 2018 - 2022
+      company: TC TRADING CO, Bangkok - Tailândia
       details: |
-        - To act as a technical reference for the team, providing a creative and innovative environment for all, 
-        in addition to stimulating and assisting the development of colleagues and the team as a whole.
-        - Implementation of mission critical environments and projects.
-        - Provide courses and training to clients when necessary
-        - Act as operational support for on-call analysts and when necessary, on-call
-        - Development of monitoring plug-ins, automation scripts, etc.
-        - Assist in the continuous management of Inova's infrastructure and managed environments.
-        - Continuously seek improvements to the environment and processes.
-        - Assist in innovation and resource savings.
-        
-    - role: DevOps Specialist
-      time: 2019 - 2019
-      company: Mandic Cloud Solutions, Sao Paulo
-      details: |
-        - Infrastructure automation using Ansible and Terraform
-        - Customer support, architecting AWS infrastructure, automation, CI/CD, cloud solutions troubleshooting.  
-        - Deployment of Docker containers and cloud services focused on optimizing and reducing infrastructure costs.
-        
-    - role: IT System Administrator
-      time: 2015 - 2019
-      company: Inova Tecnologias, Sao Paulo
-      details: |
-        - Deployment management of mission-critical environments.
-        - Systems management for automation and monitoring Clusters and servers.
-        - Management of + 400 thousand email accounts and dozens of onPremise and onCloud servers.
-        - Hot migration of critical data, usually on a large scale.
-        - Official zimbra training for system administrators.
-        - Sizing, deploying and managing clusters and Linux servers.
-        - Management of large amounts of data (+ 100TB) distributed in the cloud and in
-          local datacenters.
-        - Development of tools and scripts for data migration and tasks automation.
+        Intermédio de exportação de commodities entre Brasil e China;
+        Aquisição de novos fornecedores, acompanhamento de negociação e criação de contrato LOI (Intenção de compra)
 
-    - role: IT Systems Analyst
-      time: 2014 - 2015
-      company: Inova Tecnologias, São Paulo
-      details: |
-        - Customer service and technical support.
-        - Analysis and Debug in Linux environments (Zimbra and Hosting).
-        - Scripting for routine automation.
-        - Internal user support and infrastructure
+#projects:
+#    title: Projects
+#    intro: |
+#      More will coming...
 
-    - role: Trainee
-      time: 2012 - 2013
-      company: Fundação Vanzolini, São Paulo
-      details: |
-        - Preparation of videoconferencing environment (hardware, software and local).
-        - Hardware and software testing and maintenance.
-        - Communication and tests among the more than 90 localities that participated in the conferences transmitted by our team.
-        - Record and catalog transmissions according to company protocols.
-
-projects:
-    title: Projects
-    intro: |
-      More will coming...
-
-    assignments:
-      - title: Hermes
-        link: "https://github.com/leomarangoni/hermes"
-        tagline: "A migration API with focus in facilitate the data transfer between email servers (In future: Files, Databases, websites, etc )."
+#    assignments:
+#      - title: Hermes
+#        link: "https://github.com/leomarangoni/hermes"
+#        tagline: "A migration API with focus in facilitate the data transfer between email servers (In future: Files, Databases, websites, etc )."
 
 #publications:
 #    title: Publications
@@ -139,70 +94,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Zimbra
-        level: 98%
-
-      - name: Linux
-        level: 90%
-
-      - name: Apache & Nginx
-        level: 89%
-
-      - name: Postfix
-        level: 92%
-
-      - name: LDAP
-        level: 95%
-
-      - name: AWS
-        level: 90%
-      
-      - name: Azure
-        level: 30%
-      
-      - name: GCP
-        level: 40%
-
-      - name: MongoDB
-        level: 80%
-      
-      - name: MariaDB/MySQL
-        level: 75%
-      
-      - name: PostgreSQL
-        level: 50%
-        
-      - name: SQLite
-        level: 40%
-      
-      - name: Python
+      - name: MS Access
         level: 70%
-        
-      - name: Django
-        level: 60%
 
-      - name: Flask
+      - name: Powerpoint
+        level: 90%
+
+      - name: Excel
+        level: 70%
+
+      - name: Word
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 55%
 
-      - name: React & Javascript
-        level: 55%
-      
-      - name: GoLang
-        level: 25%
-      
-      - name: PHP
-        level: 10%
 
-      - name: Perl
-        level: 5%
-
-      - name: Java
-        level: 1%
-
-        
-
+    
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
